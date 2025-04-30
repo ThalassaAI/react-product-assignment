@@ -5,7 +5,6 @@ import productsData from "../data/products.json";
 // console.log(productsData);
 
 function ProductList() {
-  console.log("ProductList component rendered");
   return (
     <div className="container mt-4">
       <div className="row">

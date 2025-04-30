@@ -41,7 +41,6 @@ function Product({
     setIsFavorite((prevIsFavorite) => !prevIsFavorite);
   };
 
-  console.log("Product component rendered");
   return (
     <div className="col-sm-6 col-md-4  mb-4 position-relative">
       <div className="card h-100">
